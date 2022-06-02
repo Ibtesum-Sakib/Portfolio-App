@@ -10,4 +10,7 @@ It's a fun project.
  
 # App SS
 Screen Shot of Porfolio Page
+
+![SS of App Home page](Portfolio2.png)
+
 ![SS of App portfolio page](Portfolio.png)
