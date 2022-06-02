@@ -9,7 +9,7 @@ It's a fun project.
  Android Studio
  
 # App SS
-Screen Shot of Porfolio Page
+Screen Shot of Porfolio App
 
 ![SS of App Home page](Portfolio2.png)
 
