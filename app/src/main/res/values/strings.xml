@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">Portfolio App</string>
+
+
+    <!-- Simple text Strings -->
+
+
+    <string name="lorem_text">An explorer and Computer Science graduate looking to expand his knowledge of the computing field. My research focuses on machine learning combined with natural language processing (NLP), text analytics, artificial intelligence and data science. </string>
+    <string name="education">At the Technical University of Dortmund, I began a Master of Science in Data Science. Because the areas of responsibility in this field of work and research are constantly and rapidly changing, this course of study provides current training as well as in-depth statistical and mathematical theory, as well as current methods and new knowledge. A key aspect of the study program is the interdisciplinary ability to communicate about methods and their application, particularly at the interface between statistics, computer science, mathematics, and fields of application.</string>
+    <string name="undergraduate">I graduated in 2021 with an Engineering degree in Computer Science and Engineering, with a concentration in Artificial Intelligence. The Department of Electrical and Computer Engineering at NSU aspires to be recognized as a role model for producing high-quality graduates, conducting research to address difficult development issues through ECE inventions, and shaping the creation of an innovation-led ECE industry in developing economies to create high-paying jobs and improve quality of life.</string>
+    <string name="lorem_protfolio">An explorer and Computer Science graduate looking to expand his knowledge of the computing field.</string>
+    <string name="job_name">AI Enthusiast and Programmer</string>
+    <string name="lorem_text1">Bachelor of Science in Computer Science and Engineering from North South University. My thesis title is "Real-Time Speech to Speech Translation From Bengali to English and Vice Versa. Speech-to-speech translation with state-of-the-art Transformer architecture, Speech Recognition, and Speech Synthesis."</string>
+    <string name="lorem_text2"> Former Research Associate in the Economic Research Group (ERG), where I was in responsible of data analysis and predictive modeling. </string>
+    <string name="professional">In Dr. Tanzilur Rahman\'s research lab, I worked closely with him. One paper was submitted to a journal.</string>
+    <string name="name">Mohammad Ibtesum\nSakib</string>
+    <string name="current_job_post">M.Sc. Student in Data Science at TU Dortmund.</string>
+    <string name="diploma">Computer Science Graduate</string>
+    <string name="port">Get in Touch. Thank you so much for taking your time to visit here! Let\'s get in touch! I prefer to communicate with me by email at ibtesum38@gmail.com.</string>
+    <string name="project1"> Speech recognition is an interdisciplinary subfield of software engineering and computational semantics that develops methodologies and technologies that enable the recognition and translation of spoken language into text by computers. It is also known as automatic speech recognition (ASR), computer speech recognition, or speech to text (STT).</string>
+    <string name="project2">Various types of fish are classified in this project.</string>
+    <string name="project3">The purpose of this work which is a web application is to collect and analyze all product from the website of e-online shops, its requirements with respect to user expectation.
+                        Where anyone from anywhere can search their required product and we will try to recommend our user the best quality product.
+                        We named it ”Best Price”.
+                        User will also able to buy their required product according to their budget.
+                        We are using google account services for user login and logout.
+                        We will try to provide them complete security.
+                        We are also using Django frameworks and API (Application Programming interface) Scrapper for better user interface and make it easy for customers.
+                        In short, the purpose of this web application is to provide a detailed overview of our recommendation search, its parameters and goals.</string>
+    <string name="project4">Speech-to-speech translation with state-of-the-art Transformer architecture, Speech Recognition, and Speech Synthesis.
+        Because of the journal submission, I am unable to provide a complete description.</string>
+    <string name="project5">Portfolio website of mine. Using Javascript,CSS, HTML5.</string>
+
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+</resources>
