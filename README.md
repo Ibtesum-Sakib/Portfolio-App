@@ -8,6 +8,6 @@ It's a fun project.
  # Using IDE
  Android Studio
  
-#App SS
+# App SS
 Screen Shot of Porfolio Page
 ![SS of App portfolio page](Portfolio.png)
